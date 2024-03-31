@@ -1,0 +1,1 @@
+This task contains,Solving problems using array functions on the rest countries' data
